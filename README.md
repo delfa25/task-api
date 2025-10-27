@@ -61,7 +61,7 @@ php artisan test
 
 ## Technologies
 
-- Laravel 12
+- Laravel 11
 - JWT Auth
 - PHPUnit
 - GitHub Actions
